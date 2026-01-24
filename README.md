@@ -19,8 +19,7 @@ This project showcases expertise in **Python, Machine Learning, API integration,
 ---
 
 ## 🔗 🚀 Live Demo  
-👉 **Add your deployed link here**  
-Example:  https://movierecommend1.streamlit.app/
+👉  https://movierecommend1.streamlit.app/
 
 
 ---
@@ -51,10 +50,6 @@ Example:  https://movierecommend1.streamlit.app/
 
 
 ---
-
-## 📸 Preview / Screenshots
-
-
 ---
 
 ## 🧠 How It Works
@@ -89,9 +84,6 @@ movie-recommendation-system/
 ├── requirements.txt
 └── README.md
 
-> *(Add screenshots here — it makes your repo look premium)*  
-
-
 
 ---
 
@@ -100,6 +92,30 @@ movie-recommendation-system/
 ### 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/your-username/movie-recommendation-system.git
+
+2️⃣ Install dependencies
+ pip install -r requirements.txt
+
+3️⃣ Run the App
+streamlit run app.py
+
+```
+🔑 TMDB API Setup
+```bash
+1. Get your API key:
+  👉 https://www.themoviedb.org/settings/api
+2. Add it in app.py
+  API_KEY = "your_api_key_here"
+```
+
+👨‍💻 Author
+Ankit Kumar Singh
+
+🎓 B.Tech in Information Technology
+💻 Passionate about Machine Learning & Web Development
+
+
+
 
 
 
