@@ -20,7 +20,7 @@ This project showcases expertise in **Python, Machine Learning, API integration,
 
 ## 🔗 🚀 Live Demo  
 👉 **Add your deployed link here**  
-Example:  
+Example:  https://movierecommend1.streamlit.app/
 
 
 ---
